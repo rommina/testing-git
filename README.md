@@ -27,9 +27,9 @@ Nos mostrara el archivo que hemos creado como un cambio no "stageado" (PREPARADO
 
 nos permite llevar el archivo a un estado previo a ser "commiteado" (LISTO):
 
-si repetimos git status, veremos que el archivo ahora esta en verde listo para ser enviado al origen.
+si repetimos ´git status´, veremos que el archivo ahora esta en verde listo para ser enviado al origen (PUSH) o para quedar en nuestra rama local.
 
-Nostaran que git nos da la posibilidad de remover el archivo del commit con el comando "git restore nombre_del_archivo"
+Notaran que git nos da la posibilidad de remover el archivo del commit con el comando "git restore nombre_del_archivo"
 
 ## Hacer commit de un archivo
 
