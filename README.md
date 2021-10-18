@@ -29,6 +29,8 @@ nos permite llevar el archivo a un estado previo a ser "commiteado" (LISTO):
 
 si repetimos git status, veremos que el archivo ahora esta en verde listo para ser enviado al origen.
 
+Nostaran que git nos da la posibilidad de remover el archivo del commit con el comando "git restore nombre_del_archivo"
+
 ## Hacer commit de un archivo
 
 ´git commit´ (Abrira un editor que mostrara los archivos a ser commiteados (puede ser mas de uno) y les permitira ingrasar un mensaje mas completo e util para el historial, si el editor es "nano" se guarda con Ctrl+S, se sale con Ctrl+X)
