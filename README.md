@@ -57,3 +57,11 @@ o
 ´git push origin master´ (envia los cambios a la rama master)
 
 Si todo salio bien podras ver tus cambios en el repo en GITHUB.
+
+## Hacer un pull de master (Obtener los cambios hechos por otros que aun no tenemos en local = syncronizar la rama master local con la rama master del origen)
+
+´git pull´ (conveniente chequear con git status que estas en la rama correcta)
+
+o
+
+´git pull origin master´
