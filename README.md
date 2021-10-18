@@ -50,6 +50,8 @@ Una vez que se hace el commit podemos chequear el historial con:
 
 Nos permite saber si tenemos commits que no hemos enviado al repositorio origen.
 
+En VSCode pueden utilizar la extension "git history" y si lo queiren ver graficamente pueden instalarse "git graph"
+
 ## Hacer push de los cambios (enviar los commits al repositorio origen)
 
 ´git push´ (conveniente chequear con git status que estas en la rama correcta)
