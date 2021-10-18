@@ -40,3 +40,20 @@ o
 PARA LEERE MAS TARDE: https://tomasdelvechio.github.io/old/440/
 Estandarizacion de mensajes de commmit.
 
+## Chequear el historial de commits
+
+Una vez que se hace el commit podemos chequear el historial con:
+
+´git log´
+
+Nos permite saber si tenemos commits que no hemos enviado al repositorio origen.
+
+## Hacer push de los cambios (enviar los commits al repositorio origen)
+
+´git push´ (conveniente chequear con git status que estas en la rama correcta)
+
+o
+
+´git push origin master´ (envia los cambios a la rama master)
+
+Si todo salio bien podras ver tus cambios en el repo en GITHUB.
